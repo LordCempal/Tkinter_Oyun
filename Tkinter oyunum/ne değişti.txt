@@ -1,0 +1,11 @@
+Eskisine göre ne değişti:
+1- Oyuncu, hedeflerin ve sınırın boyutu değişti.
+2- Oyun büyük pencerede açılıyor
+3- Arkaplan, alınması gereken hedefler ve oyuncunun renkleri ve şekilleri değiştirildi
+4- Sınırların çizilmesini artık izlemiyoruz, anında ekranda beliriyor.
+5- Her 100 skor alındığında 1 can kazanılıyor.
+6- Can kazanıldığı zaman çıkan ayrı bir ses eklendi
+7-Oyun bittiğinde ekrana yazı belirirken arkada çalınacak ses eklendi.(bitiş sesi)
+8-Oyun bittikten 2-3 saniye sonra oyun otomatik kendini kapatıyor.
+9-Oyun bitince ekrandaki her şey donuk vaziyette kalıyor.
+10-Yararlı hedef ve zararlı hedef sesleri farklılaştırıldı.(Zararlı hedefi alınca ekstra bir ses eklendi)
